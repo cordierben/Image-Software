@@ -1,0 +1,7 @@
+c:\users\benoît\source\repos\Projet_Info\Projet_Info\bin\Debug\Projet_Info.exe.config
+c:\users\benoît\source\repos\Projet_Info\Projet_Info\bin\Debug\Projet_Info.exe
+c:\users\benoît\source\repos\Projet_Info\Projet_Info\bin\Debug\Projet_Info.pdb
+c:\users\benoît\source\repos\Projet_Info\Projet_Info\obj\Debug\Projet_Info.csprojAssemblyReference.cache
+c:\users\benoît\source\repos\Projet_Info\Projet_Info\obj\Debug\Projet_Info.csproj.CoreCompileInputs.cache
+c:\users\benoît\source\repos\Projet_Info\Projet_Info\obj\Debug\Projet_Info.exe
+c:\users\benoît\source\repos\Projet_Info\Projet_Info\obj\Debug\Projet_Info.pdb
